@@ -22,7 +22,7 @@ None of the relationships in the graph have any properties.
 The already-created database is located in `fleets.graphdb.zip`.
 
 ## Create the database from scratch.
-Alternatively, to create the database from scratch locally, do the following in the given order:
+Alternatively, to create the database from scratch, do the following in the given order:
 
 * Execute `scrape_airlines.py`. This will create a 180KB file `airlines_raw.csv` in the current directory.
 * Execute `scrape_aircraft.py`. This will create a 2,181KB file `aircraft_raw.csv` in the current directory.
