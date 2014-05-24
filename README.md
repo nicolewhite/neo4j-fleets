@@ -36,7 +36,7 @@ Before going on to the below steps, make sure Neo4j is up and running at [http:/
 
 After these scripts complete, the database should be fully populated.
 
-## Example Queries
+## Example queries.
 
 ### Which airlines own the most active Boeing 747s (top 10)? How many do they own? In which countries are these airlines based?
 ```
